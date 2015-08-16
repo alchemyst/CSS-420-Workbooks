@@ -9,6 +9,9 @@ These links are to the new version of the notebooks (IPython > 3.0)
 3. [Convexity and Hessians](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 Lecture 3 Convexity and Hessians.ipynb)
 4. [1D Unconstrained optimisation](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 Lecture 4 1D Unconstrained optimisation.ipynb)
 5. [MultiD Unconstrained optimisation](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 Lecture 5 MultiD Unconstrained optimisation.ipynb)
+6. [CSS420 Linear Programming Refinery example](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS420 Linear Programming Refinery example.ipynb)
+7. [CSS 420 MILP Phone contract example](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 MILP Phone contract example.ipynb)
+
 
 ## v3
 These links are to the notebooks automatically converted to the older notebook format (v3)
@@ -18,3 +21,5 @@ These links are to the notebooks automatically converted to the older notebook f
 3. [Convexity and Hessians](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 Lecture 3 Convexity and Hessians.v3.ipynb)
 4. [1D Unconstrained optimisation](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 Lecture 4 1D Unconstrained optimisation.v3.ipynb)
 5. [MultiD Unconstrained optimisation](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 Lecture 5 MultiD Unconstrained optimisation.v3.ipynb)
+6. [CSS420 Linear Programming Refinery example](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS420 Linear Programming Refinery example.v3.ipynb)
+7. [CSS 420 MILP Phone contract example](http://nbviewer.ipython.org/github/alchemyst/CSS-420-Workbooks/blob/master/CSS 420 MILP Phone contract example.v3.ipynb)
