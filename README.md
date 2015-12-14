@@ -1,6 +1,8 @@
 # CSS-420-Workbooks
 Ipython notebooks for CSS 420
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/alchemyst/CSS-420-Workbooks)
+
 ## Notebook viewer links (v4)
 These links are to the new version of the notebooks (IPython > 3.0)
 
