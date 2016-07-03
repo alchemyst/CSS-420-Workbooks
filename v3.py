@@ -2,7 +2,8 @@
 from __future__ import print_function
 import glob
 import os
-import IPython.nbformat
+import nbformat
+
 allnotebooks = glob.glob('*.ipynb')
 nonv3 = [n for n in allnotebooks if '.v3' not in n]
 
@@ -12,6 +13,6 @@ def newer(thisfile, otherfile):
 for f in nonv3:
     v3name = f[:-6] + '.v3.ipynb'
     if not os.path.exists(v3name) or newer(f, v3name):
-        notebook = IPython.nbformat.read(f, 4)
-        IPython.nbformat.write(notebook, v3name, 3)
+        notebook = nbformat.read(f, 4)
+        nbformat.write(notebook, v3name, 3)
         print(f)
